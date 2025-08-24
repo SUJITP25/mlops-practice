@@ -4,3 +4,5 @@ initiate dvc
 pip install dvc 
 mkdir s3 (AWS)
 dvc remote add -d myremote s3
+dvc add data/
+
