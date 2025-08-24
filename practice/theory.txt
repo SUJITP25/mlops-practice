@@ -1,0 +1,18 @@
+Why Data Versoning is Required? 
+
+
+Data Ingestion
+Data Preprocessing  
+Feature Engineering
+Feature Selection 
+Data Validation 
+Model Training 
+Model Evaluation 
+
+
+
+Artifacts means output of the every modules. 
+You send the artifacts to the next modules. 
+Everytime you updates the artifacts will be change. 
+for Data Versoning we need a DVC.
+

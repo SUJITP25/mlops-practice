@@ -1,0 +1,59 @@
+2025-08-23 10:39:44,747 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy
+otebookisa.csv
+2025-08-23 10:39:44,747 [ERROR] mlops-logger: Failed to load the data: File not found: D:\desktop\AI\mlops\dswithbappy
+otebookisa.csv
+2025-08-23 10:40:35,191 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 10:40:35,515 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:27:35,094 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 11:27:35,187 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:27:35,188 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 11:27:35,276 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:27:35,277 [INFO] mlops-logger: the Shape of the Dataframe (25480, 12)
+2025-08-23 11:27:35,299 [INFO] mlops-logger: Saving Exported Data into feature Store filepath: artifact\08_23_2025_11_27_35\data_ingestion\feature_stores\visa.csv
+2025-08-23 11:44:07,547 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 11:44:07,655 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:44:07,655 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 11:44:07,771 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:44:07,771 [INFO] mlops-logger: the Shape of the Dataframe (25480, 12)
+2025-08-23 11:44:07,787 [INFO] mlops-logger: Saving Exported Data into feature Store filepath: artifact\08_23_2025_11_44_03\data_ingestion\feature_stores\visa.csv
+2025-08-23 11:44:07,787 [INFO] mlops-logger: Into the Part of Training and testing of Data
+2025-08-23 11:44:07,820 [INFO] mlops-logger: Splillted Data into train and test
+2025-08-23 11:44:08,188 [INFO] mlops-logger: Data split into train ((20384, 12)) and test ((5096, 12)) sets
+2025-08-23 11:59:56,507 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 11:59:56,607 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:59:56,612 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 11:59:56,778 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 11:59:56,783 [INFO] mlops-logger: the Shape of the Dataframe (25480, 12)
+2025-08-23 11:59:56,792 [INFO] mlops-logger: Saving Exported Data into feature Store filepath: artifact\08_23_2025_11_59_54\data_ingestion\feature_stores\visa.csv
+2025-08-23 11:59:56,795 [INFO] mlops-logger: Into the Part of Training and testing of Data
+2025-08-23 11:59:56,814 [INFO] mlops-logger: Splillted Data into train and test
+2025-08-23 11:59:57,097 [INFO] mlops-logger: Data split into train ((20384, 12)) and test ((5096, 12)) sets
+2025-08-23 12:01:01,759 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 12:01:01,851 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 12:01:01,853 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 12:01:01,933 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 12:01:01,934 [INFO] mlops-logger: the Shape of the Dataframe (25480, 12)
+2025-08-23 12:01:01,986 [INFO] mlops-logger: Saving Exported Data into feature Store filepath: artifact\08_23_2025_12_01_00\data_ingestion\feature_stores\visa.csv
+2025-08-23 12:01:01,992 [INFO] mlops-logger: Into the Part of Training and testing of Data
+2025-08-23 12:01:02,023 [INFO] mlops-logger: Splillted Data into train and test
+2025-08-23 12:01:02,243 [INFO] mlops-logger: Data split into train ((20384, 12)) and test ((5096, 12)) sets
+2025-08-23 12:17:50,396 [INFO] mlops-logger: Initiate the final Data Ingestion
+2025-08-23 12:17:50,396 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 12:17:50,544 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 12:17:50,545 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 12:17:50,619 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 12:17:50,619 [INFO] mlops-logger: the Shape of the Dataframe (25480, 12)
+2025-08-23 12:17:50,625 [INFO] mlops-logger: Saving Exported Data into feature Store filepath: artifact\08_23_2025_12_17_48\data_ingestion\feature_stores\visa.csv
+2025-08-23 12:17:50,629 [INFO] mlops-logger: Into the Part of Training and testing of Data
+2025-08-23 12:17:50,639 [INFO] mlops-logger: Splillted Data into train and test
+2025-08-23 12:17:50,964 [INFO] mlops-logger: Data split into train ((20384, 12)) and test ((5096, 12)) sets
+2025-08-23 12:25:18,501 [INFO] mlops-logger: Initiate the final Data Ingestion
+2025-08-23 12:25:18,501 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 12:25:18,600 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 12:25:18,601 [INFO] mlops-logger: Trying to load the data from D:\desktop\AI\mlops\dswithbappy\notebook\visa.csv
+2025-08-23 12:25:18,682 [INFO] mlops-logger: Data loaded successfully with shape: (25480, 12)
+2025-08-23 12:25:18,682 [INFO] mlops-logger: the Shape of the Dataframe (25480, 12)
+2025-08-23 12:25:18,740 [INFO] mlops-logger: Saving Exported Data into feature Store filepath: artifact\08_23_2025_12_25_16\data_ingestion\feature_stores\visa.csv
+2025-08-23 12:25:18,747 [INFO] mlops-logger: Into the Part of Training and testing of Data
+2025-08-23 12:25:18,782 [INFO] mlops-logger: Splillted Data into train and test
+2025-08-23 12:25:19,002 [INFO] mlops-logger: Data split into train ((20384, 12)) and test ((5096, 12)) sets

@@ -1,0 +1,6 @@
+create a git repo and add files in it 
+
+initiate dvc 
+pip install dvc 
+mkdir s3 (AWS)
+dvc remote add -d myremote s3
